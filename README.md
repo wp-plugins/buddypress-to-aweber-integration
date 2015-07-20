@@ -1,1 +1,1 @@
-# buddypress_aweber_integration
+# buddypress aweber integration
