@@ -1,4 +1,4 @@
-=== buddypress-to-aweber ===
+=== Buddypress to Aweber ===
 Contributors: vimes1984
 Donate link: http://buildawebdoctor.com
 Tags: Aweber, Buddypress
