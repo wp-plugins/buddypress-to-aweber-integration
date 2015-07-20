@@ -14,7 +14,7 @@
  * Plugin Name: Buddypress to Aweber
  * Plugin URI:  http://buildawebdoctor.com
  * Description: Aweber to buddypress integration
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      vimes1984
  * Author URI:  http://buildawebdoctor.com
  * Text Domain: buddypress-to-aweber-locale
